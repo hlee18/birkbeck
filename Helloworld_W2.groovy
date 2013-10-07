@@ -1,0 +1,1 @@
+println "Given a series of words, each on a separate line,"
